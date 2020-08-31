@@ -98,8 +98,7 @@ div.carrousel-home{
 .pic-header-home {
     filter: grayscale(80%);
     width: 100%;
-    z-index: -1;
-    opacity: 90%;
+    background-position: center;
 }
 .social-home{
     z-index: 100;
